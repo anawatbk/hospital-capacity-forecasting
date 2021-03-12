@@ -16,12 +16,13 @@ pipeline
 2. Select only columns relevant for this project. 
 3. Generate Lag features, and moving average.
 <br> 
-Example, lags = 5  
+Example, lags = 5
+
 create and append 5 new columns to dataframe.  
+
 |x-5 | x-4 | x-3 | x-2 | x-1 | x-MA3 |
 
-4. GroupbyImputer 
-<br>
+4. GroupbyImputer   
 Impute missing values of each column by its hospital's median.
 
 
