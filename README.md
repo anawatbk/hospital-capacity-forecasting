@@ -19,7 +19,8 @@ pipeline
 Example, lags = 5  
 create and append 5 new columns to dataframe.  
 |x-5 | x-4 | x-3 | x-2 | x-1 | x-MA3 |
-5. GroupbyImputer 
+
+4. GroupbyImputer 
 <br>
 Impute missing values of each column by its hospital's median.
 
