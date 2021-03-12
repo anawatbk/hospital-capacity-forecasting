@@ -14,8 +14,8 @@ pipeline
 <br>
 1. Create custom calculated columns. 
 2. Select only columns relevant for this project. 
-3. Generate Lag features, and moving average.
-<br> 
+3. Generate Lag features, and moving average. 
+ 
 Example, lags = 5
 
 create and append 5 new columns to dataframe.  
