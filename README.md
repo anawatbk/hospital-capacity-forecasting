@@ -1,4 +1,4 @@
-# 🛏️📈 California COVID-19 Hospital Bed Capacity Forecasting California COVID-19 Hospital Bed Capacity Forecasting
+# 🛏️📈 California's COVID-19 Hospitals Bed Capacity Forecasting California COVID-19 Hospital Bed Capacity Forecasting
 ## Author: Anawat Putwanphen
 ## Project Goal
 Forecast California COVID-19 Hospital bed capacity 1-month ahead (weekly average) using ML models in sklearn.
