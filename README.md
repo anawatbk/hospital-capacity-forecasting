@@ -1,11 +1,11 @@
-# 🛏️📈 California's COVID-19 Hospitals Bed Capacity Forecasting
-## Author: Anawat Putwanphen
-## Project Goal
-Forecast California COVID-19 Hospital bed capacity 1-month ahead (weekly average) using ML models in sklearn.
+# California's Hospitals Bed Capacity Forecasting
+## Objective
+To create the Forecasting of California COVID-19 Hospital bed capacity 1-month ahead (weekly average) using pipeline and ML models in sklearn.
 <br>
-using dataset from Facility by Department of Health and Human Services
-<br>
-Links: https://healthdata.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-facility 
+## Dataset
+[Facility by Department of Health and Human Services](https://healthdata.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-facility )
+
+![]
 
 ## Highlight
 ### Feature Engineering
