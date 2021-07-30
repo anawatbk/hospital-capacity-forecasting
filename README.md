@@ -39,7 +39,7 @@ Impute missing values of each column by its hospital's median.
 ![](images/approach2.png?raw=True)
 <br>
 <br>
-## Summary
+## Summary<br>
 ![](images/summary.png?raw=True)
 
 Best model: Stacking Ensemble model 
